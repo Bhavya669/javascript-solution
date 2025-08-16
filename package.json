@@ -1,0 +1,21 @@
+{
+  "name": "weekday-sum",
+  "version": "1.0.0",
+  "description": "A solution that groups date-value pairs by weekdays, sums values, and fills missing weekdays using mean of neighbors.",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "weekday",
+    "sum",
+    "unit-test",
+    "jest"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
